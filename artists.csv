@@ -1,4 +1,4 @@
-song_id,artist,title,likes,comments,total_plays,mood,youtube_url
+song_id,artist,song,likes,comments,total_plays,mood,youtube_url
 1,Brandon Jonak & Pep.B,Brandon Jonak & Pep.B - Where Do I Go,379,41,72600,In-Love,https://www.youtube.com/watch?v=Vrd8uDWRmx0
 2,Jingle Punks,Jingle Punks - Skull Fire,42,2,6234,Happy,https://www.youtube.com/watch?v=OtRQeYvrIU0
 3,Lord Of The Rings,Lord Of The Rings - Hobbit Theme,136,11,31300,Happy,https://www.youtube.com/watch?v=OtRQeYvrIU0
@@ -16,7 +16,22 @@ song_id,artist,title,likes,comments,total_plays,mood,youtube_url
 15,Goblins From Mars,Goblins From Mars - Somewhere,187,5,43600,Angry,https://www.youtube.com/watch?v=2JcH7X8JtNY
 16,Desmeon,Desmeon - Undone,149,2,43300,Sad,https://www.youtube.com/watch?v=0E6KXgWuaHo
 17,Anevo,Anevo - Waiting On Your Call,154,0,39600,In-love,https://www.youtube.com/watch?v=mkgl_f-DpXc
-
+18,Major Lazer,Major Lazer - Christmas Trees (feat. Protoje),107,3,36000,Happy,https://www.youtube.com/watch?v=ZgTpZ7YlHKc
+19,Kranky,Kranky - stars of the lid 'december hunting for vegetarian fuckface',769,14,37200,Peaceful,https://www.youtube.com/watch?v=5fRk1PgBbR0
+20,NCFR,NCFR - Connections,1,0,754,Happy,https://www.youtube.com/watch?v=gQQ46faP9R4
+21,NCFR,NCFR - Adventures A-himitsu,60,0,6793,Happy,https://www.youtube.com/watch?v=MkNeIUgNPQ8
+22,Clarx,Clarx - Bones,2204,49,95200,Angry,https://www.youtube.com/watch?v=8Tu0lcl75yg
+23,Waysons,Waysons - Eternal Minds,13500,286,1400000,Confident-sassy,https://www.youtube.com/watch?v=ZhECyz85FMc
+24,Distrion & Electro-Light,Distrion & Electro-Light - Drakkar,539,14,28400,Happy,https://www.youtube.com/watch?v=YJTae5ScvQA
+25,Slokix,Slokix - Big Smoke,68,11,5097,Confident-sassy,https://www.youtube.com/watch?v=9kzY4JgfOUE
+26,LiQWYD,LiQWYD - Take It Easy,105,5,5750,Peaceful,https://www.youtube.com/watch?v=nrIWx67pGXA
+27,LiQWYD,LiQWYD - With You,125,8,4821,Happy,https://www.youtube.com/watch?v=a8MrgGTdkeI
+28,MBB,MBB - Clouds,1880,148,20786,Happy,https://www.youtube.com/watch?v=CmG7wrhaKko
+29,Artegon,Artegon - Bad Bounce,23,3,2145,Angry,https://www.youtube.com/watch?v=ZS-M64GTtHk
+30,Tranquil,Tranquil - Past the High Road,15,0,1629,Heart-Broken,https://www.youtube.com/watch?v=TQy7YlW9sIn-lovedk
+31,Scandinavianz,Scandinavianz - Atlantis,1981,912,14443,Peaceful,https://www.youtube.com/watch?v=CtRZOngDavo
+32,SHWMM,SHWMM - A Peaceful Journey,7,0,502,Peaceful,https://www.youtube.com/watch?v=-XCcrYIZF6M
+33,Abstract Corporate,Abstract Corporate - Gribsound, 
 
 
 
